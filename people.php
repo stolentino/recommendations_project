@@ -9,7 +9,7 @@ require 'inc/header.php';
 include 'data/csv/people.csv';
 echo '</pre>';*/
 
-IF(($fh = fopen('../data/csv/people.csv', 'r')) !== false){
+IF(($fh = fopen('data/csv/people.csv', 'r')) !== false){
         $header = fgetcsv($fh);
         //var_dump($header);
         //echo '<br />';
