@@ -110,6 +110,28 @@
                 "isbn": "020161622X",
                 "average_rating": "4.31",
                 "book_published": "1999"
+            },
+            {
+                "title": "Refactoring to Collections",
+                "link": "https://www.goodreads.com/book/show/30238532-refactoring-to-collections?ac=1&from_search=true&qid=j1d3DadKfX&rank=1",
+                "book_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465685137i/30238532._SX50_.jpg",
+                "book_description": "&#34;Refactoring to Collections&#34; is a book and video course that teaches you how to apply functional programming principles to write clean, maintainable PHP.\r\n\r\nLearn how to use collection pipelines to break down ugly, complex functions into a series of simple transformations, free of loops, complex conditionals, and temporary variables.\r\n\r\nThe first section of the book focuses on teaching you the theory and fundamentals you need to to start applying functional programming principles to your code.\r\n\r\nYou&#39;ll learn about the difference between imperative and declarative code, how to use higher order functions to remove duplication, and how to reimplement fundamental operations like map, reduce, and filter from first principles.\r\n\r\nThe second section of the book and the companion screencasts are a deep dive into problem solving with Laravel&#39;s Collection library.\r\n\r\nThrough 15 in-depth examples, we walk through everything from beginner to expert level problems, using advanced operations like zip and transpose, and even extending the library with our own custom transformations.",
+                "num_pages": null,
+                "author_name": "Adam Wathan",
+                "isbn": null,
+                "average_rating": "493",
+                "book_published": null
+            },
+            {
+                "title": "Refactoring to Collections",
+                "link": "https://www.goodreads.com/book/show/30238532-refactoring-to-collections?ac=1&from_search=true&qid=j1d3DadKfX&rank=1",
+                "book_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465685137i/30238532._SX50_.jpg",
+                "book_description": "&#34;Refactoring to Collections&#34; is a book and video course that teaches you how to apply functional programming principles to write clean, maintainable PHP.\r\n\r\nLearn how to use collection pipelines to break down ugly, complex functions into a series of simple transformations, free of loops, complex conditionals, and temporary variables.\r\n\r\nThe first section of the book focuses on teaching you the theory and fundamentals you need to to start applying functional programming principles to your code.\r\n\r\nYou&#39;ll learn about the difference between imperative and declarative code, how to use higher order functions to remove duplication, and how to reimplement fundamental operations like map, reduce, and filter from first principles.\r\n\r\nThe second section of the book and the companion screencasts are a deep dive into problem solving with Laravel&#39;s Collection library.\r\n\r\nThrough 15 in-depth examples, we walk through everything from beginner to expert level problems, using advanced operations like zip and transpose, and even extending the library with our own custom transformations.",
+                "num_pages": null,
+                "author_name": "Adam Wathan",
+                "isbn": null,
+                "average_rating": "493",
+                "book_published": null
             }
         ]
     }
